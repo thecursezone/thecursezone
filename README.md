@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 If you're looking at the repository, this is a website. Otherwise read the stuff below.
-
+This website is open source so you can reuse this!
 
 - Hello, I am Cursed Gamer. I am a youtuber
 - 🌱 I’m currently learning HTML/CSS/JS
